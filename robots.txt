@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hobie4ever.github.io/QajaqRolling/sitemap.xml
