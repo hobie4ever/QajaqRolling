@@ -3,22 +3,31 @@
     <title>Qajaq Rolling</title>
     <link href="https://hobie4ever.github.io/QajaqRolling/feed.xml" rel="self" />
     <link href="https://hobie4ever.github.io/QajaqRolling" />
-    <updated>2022-12-28T15:35:19+01:00</updated>
+    <updated>2022-12-28T16:21:00+01:00</updated>
     <author>
         <name>David Täng</name>
     </author>
     <id>https://hobie4ever.github.io/QajaqRolling</id>
 
     <entry>
-        <title>Hello World!</title>
+        <title>This site is my x-mas gift from my oldest son. I plan to fill it with Greenland Rolling images, videos, tips, failures and successes. Skin on frame builds, Greenland paddle builds and design. </title>
         <author>
             <name>David Täng</name>
         </author>
-        <link href="https://hobie4ever.github.io/QajaqRolling/hello-world.html"/>
-        <id>https://hobie4ever.github.io/QajaqRolling/hello-world.html</id>
+        <link href="https://hobie4ever.github.io/QajaqRolling/this-site-is-my-x-mas-gift-from-my-oldest-son-i-plan-to-fill-it-with-greenland-rolling-images-videos-tips-failures-and-successes-skin-on-frame-builds-greenland-paddle-builds-and-design.html"/>
+        <id>https://hobie4ever.github.io/QajaqRolling/this-site-is-my-x-mas-gift-from-my-oldest-son-i-plan-to-fill-it-with-greenland-rolling-images-videos-tips-failures-and-successes-skin-on-frame-builds-greenland-paddle-builds-and-design.html</id>
 
-        <updated>2022-12-28T15:35:19+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-12-28T16:21:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    As you may know there is a website called Qajaq rolls hosted by Cristopher Crowhurst wich is a great site not to be confused with mine. I hope to be a bit more personal and I like to share my path towards completing the rolls&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>As you may know there is a website called Qajaq rolls hosted by Cristopher Crowhurst wich is a great site not to be confused with mine. I hope to be a bit more personal and I like to share my path towards completing the rolls on the Greenland Rolling competition list as well as discussions on Skin on frame building - what works for me and my mistakes. </p>
+<p>As my Swedish friends may be a bit annoyed by the english I start out this way and may turn bi-lingual as time passes. Any audio will most likely be in Swedish...</p>
+            ]]>
+        </content>
     </entry>
 </feed>
