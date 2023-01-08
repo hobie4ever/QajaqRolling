@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Qajaq Rolling</title>
-    <link href="https://hobie4ever.github.io/QajaqRolling/feed.xml" rel="self" />
-    <link href="https://hobie4ever.github.io/QajaqRolling" />
+    <link href="https://qajaqrolling.com/feed.xml" rel="self" />
+    <link href="https://qajaqrolling.com" />
     <updated>2023-01-07T22:12:17+01:00</updated>
     <author>
         <name>David Täng</name>
     </author>
-    <id>https://hobie4ever.github.io/QajaqRolling</id>
+    <id>https://qajaqrolling.com</id>
 
     <entry>
         <title>Greenland Paddles</title>
         <author>
             <name>David Täng</name>
         </author>
-        <link href="https://hobie4ever.github.io/QajaqRolling/greenland-paddles.html"/>
-        <id>https://hobie4ever.github.io/QajaqRolling/greenland-paddles.html</id>
+        <link href="https://qajaqrolling.com/greenland-paddles.html"/>
+        <id>https://qajaqrolling.com/greenland-paddles.html</id>
 
         <updated>2023-01-02T20:32:38+01:00</updated>
             <summary>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image align-left"><img loading="lazy"  src="https://hobie4ever.github.io/QajaqRolling/media/posts/7/trepaddlar.jpg" alt="" width="223" height="297" sizes="100vw" srcset="https://hobie4ever.github.io/QajaqRolling/media/posts/7/responsive/trepaddlar-xs.jpg 300w ,https://hobie4ever.github.io/QajaqRolling/media/posts/7/responsive/trepaddlar-sm.jpg 480w ,https://hobie4ever.github.io/QajaqRolling/media/posts/7/responsive/trepaddlar-md.jpg 768w ,https://hobie4ever.github.io/QajaqRolling/media/posts/7/responsive/trepaddlar-lg.jpg 1024w ,https://hobie4ever.github.io/QajaqRolling/media/posts/7/responsive/trepaddlar-xl.jpg 1360w ,https://hobie4ever.github.io/QajaqRolling/media/posts/7/responsive/trepaddlar-2xl.jpg 1600w"></figure>
+                <figure class="post__image align-left"><img loading="lazy"  src="https://qajaqrolling.com/media/posts/7/trepaddlar.jpg" alt="" width="223" height="297" sizes="100vw" srcset="https://qajaqrolling.com/media/posts/7/responsive/trepaddlar-xs.jpg 300w ,https://qajaqrolling.com/media/posts/7/responsive/trepaddlar-sm.jpg 480w ,https://qajaqrolling.com/media/posts/7/responsive/trepaddlar-md.jpg 768w ,https://qajaqrolling.com/media/posts/7/responsive/trepaddlar-lg.jpg 1024w ,https://qajaqrolling.com/media/posts/7/responsive/trepaddlar-xl.jpg 1360w ,https://qajaqrolling.com/media/posts/7/responsive/trepaddlar-2xl.jpg 1600w"></figure>
 <p>I started out with europaddles as I didn't know anything else. As I started looking for "my" feeling of both kayak and paddle I rather soon discovered greenland paddles. Last year I tried to paddle a europaddle again as I was playing in the surf but no... Can't and won't try to find the technique or feeling again. I'm lost to the GP and happy about it. I make my own but I love to try other GPs as well. Recently got to try one from Anders Thygesen, Norwegian Wood, and it was super! Back to the workshop and try to find what made Anders paddle work its way through the water in such a lovely way. That will be experiment number 32, yes I brand them and keep count just for fun. </p>
             ]]>
         </content>
@@ -35,8 +35,8 @@
         <author>
             <name>David Täng</name>
         </author>
-        <link href="https://hobie4ever.github.io/QajaqRolling/skin-on-frame-qajaqs.html"/>
-        <id>https://hobie4ever.github.io/QajaqRolling/skin-on-frame-qajaqs.html</id>
+        <link href="https://qajaqrolling.com/skin-on-frame-qajaqs.html"/>
+        <id>https://qajaqrolling.com/skin-on-frame-qajaqs.html</id>
 
         <updated>2023-01-02T14:27:23+01:00</updated>
             <summary>
@@ -55,8 +55,8 @@
         <author>
             <name>David Täng</name>
         </author>
-        <link href="https://hobie4ever.github.io/QajaqRolling/d2-the-d1-copy-with-modificatins.html"/>
-        <id>https://hobie4ever.github.io/QajaqRolling/d2-the-d1-copy-with-modificatins.html</id>
+        <link href="https://qajaqrolling.com/d2-the-d1-copy-with-modificatins.html"/>
+        <id>https://qajaqrolling.com/d2-the-d1-copy-with-modificatins.html</id>
 
         <updated>2023-01-07T22:12:17+01:00</updated>
             <summary>
@@ -67,9 +67,9 @@
         <content type="html">
             <![CDATA[
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://hobie4ever.github.io/QajaqRolling/media/posts/5/gallery/DSC_0046.jpg" data-size="3840x2160"><img loading="lazy" src="https://hobie4ever.github.io/QajaqRolling/media/posts/5/gallery/DSC_0046-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://hobie4ever.github.io/QajaqRolling/media/posts/5/gallery/DSC_0047.jpg" data-size="3840x2160"><img loading="lazy" src="https://hobie4ever.github.io/QajaqRolling/media/posts/5/gallery/DSC_0047-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://hobie4ever.github.io/QajaqRolling/media/posts/5/gallery/DSC_0050.jpg" data-size="3840x2160"><img loading="lazy" src="https://hobie4ever.github.io/QajaqRolling/media/posts/5/gallery/DSC_0050-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://qajaqrolling.com/media/posts/5/gallery/DSC_0046.jpg" data-size="3840x2160"><img loading="lazy" src="https://qajaqrolling.com/media/posts/5/gallery/DSC_0046-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://qajaqrolling.com/media/posts/5/gallery/DSC_0047.jpg" data-size="3840x2160"><img loading="lazy" src="https://qajaqrolling.com/media/posts/5/gallery/DSC_0047-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://qajaqrolling.com/media/posts/5/gallery/DSC_0050.jpg" data-size="3840x2160"><img loading="lazy" src="https://qajaqrolling.com/media/posts/5/gallery/DSC_0050-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <p>A friend asked to buy the D1 so I started building a "copy". Of course there are some modifications as you can see on the images. The cocpit is smaller and the masid sits a bit higher. Yes, the D2 isn't quite finished in the images, the deckriggings are missing. I loved this qajaq and paddled it for four years. </p>
 <p>A short video where I fail a F2F norsaq toll in my D2 qajaq. </p>
@@ -83,8 +83,8 @@
         <author>
             <name>David Täng</name>
         </author>
-        <link href="https://hobie4ever.github.io/QajaqRolling/d1-the-first-sof-qajaq-build.html"/>
-        <id>https://hobie4ever.github.io/QajaqRolling/d1-the-first-sof-qajaq-build.html</id>
+        <link href="https://qajaqrolling.com/d1-the-first-sof-qajaq-build.html"/>
+        <id>https://qajaqrolling.com/d1-the-first-sof-qajaq-build.html</id>
 
         <updated>2023-01-02T14:08:54+01:00</updated>
             <summary>
@@ -95,10 +95,10 @@
         <content type="html">
             <![CDATA[
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://hobie4ever.github.io/QajaqRolling/media/posts/4/gallery/DSC_0036.jpg" data-size="3840x2160"><img loading="lazy" src="https://hobie4ever.github.io/QajaqRolling/media/posts/4/gallery/DSC_0036-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://hobie4ever.github.io/QajaqRolling/media/posts/4/gallery/DSC_0039.jpg" data-size="3840x2160"><img loading="lazy" src="https://hobie4ever.github.io/QajaqRolling/media/posts/4/gallery/DSC_0039-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://hobie4ever.github.io/QajaqRolling/media/posts/4/gallery/DSC_0404.jpg" data-size="3840x2160"><img loading="lazy" src="https://hobie4ever.github.io/QajaqRolling/media/posts/4/gallery/DSC_0404-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://hobie4ever.github.io/QajaqRolling/media/posts/4/gallery/DSC_0462.jpg" data-size="3840x2160"><img loading="lazy" src="https://hobie4ever.github.io/QajaqRolling/media/posts/4/gallery/DSC_0462-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://qajaqrolling.com/media/posts/4/gallery/DSC_0036.jpg" data-size="3840x2160"><img loading="lazy" src="https://qajaqrolling.com/media/posts/4/gallery/DSC_0036-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://qajaqrolling.com/media/posts/4/gallery/DSC_0039.jpg" data-size="3840x2160"><img loading="lazy" src="https://qajaqrolling.com/media/posts/4/gallery/DSC_0039-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://qajaqrolling.com/media/posts/4/gallery/DSC_0404.jpg" data-size="3840x2160"><img loading="lazy" src="https://qajaqrolling.com/media/posts/4/gallery/DSC_0404-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://qajaqrolling.com/media/posts/4/gallery/DSC_0462.jpg" data-size="3840x2160"><img loading="lazy" src="https://qajaqrolling.com/media/posts/4/gallery/DSC_0462-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <p>D1 was built in 2016 </p>
             ]]>
@@ -109,8 +109,8 @@
         <author>
             <name>David Täng</name>
         </author>
-        <link href="https://hobie4ever.github.io/QajaqRolling/this-site-is-my-x-mas-gift-from-my-oldest-son-i-plan-to-fill-it-with-greenland-rolling-images-videos-tips-failures-and-successes-skin-on-frame-builds-greenland-paddle-builds-and-design.html"/>
-        <id>https://hobie4ever.github.io/QajaqRolling/this-site-is-my-x-mas-gift-from-my-oldest-son-i-plan-to-fill-it-with-greenland-rolling-images-videos-tips-failures-and-successes-skin-on-frame-builds-greenland-paddle-builds-and-design.html</id>
+        <link href="https://qajaqrolling.com/this-site-is-my-x-mas-gift-from-my-oldest-son-i-plan-to-fill-it-with-greenland-rolling-images-videos-tips-failures-and-successes-skin-on-frame-builds-greenland-paddle-builds-and-design.html"/>
+        <id>https://qajaqrolling.com/this-site-is-my-x-mas-gift-from-my-oldest-son-i-plan-to-fill-it-with-greenland-rolling-images-videos-tips-failures-and-successes-skin-on-frame-builds-greenland-paddle-builds-and-design.html</id>
 
         <updated>2022-12-28T16:21:00+01:00</updated>
             <summary>
